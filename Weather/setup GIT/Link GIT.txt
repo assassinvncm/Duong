@@ -1,1 +1,1 @@
-https://github.com/assassinvncm/SharableDisk.git
+https://github.com/assassinvncm/SharableDisk.git : Sharable Disk
