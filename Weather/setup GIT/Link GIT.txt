@@ -1,1 +1,2 @@
 https://github.com/assassinvncm/SharableDisk.git : Sharable Disk
+https://github.com/NguyenHuuManh/WeatherDemo.git: Weather Project
